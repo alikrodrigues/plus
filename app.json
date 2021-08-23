@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pluS",
+    "slug": "pluS",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pluS"
+}
